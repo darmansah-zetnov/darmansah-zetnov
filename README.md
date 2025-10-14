@@ -21,10 +21,14 @@ I’m a self taught developer with an insatiable curiosity for how systems work.
   <img src="https://raw.githubusercontent.com/darmansah-zetnov/darmansah-zetnov/f3e812dc68e646a6dc5448608469f56aad4f86c7/Fate.gif" width="90%" alt="Welcome Banner"/>
 </p>
 
+## 🧩 Matrix Portfolio Access
+> Unlock puzzles & explore my Portofolio through an immersive game.
+
+[![Play Matrix Access](https://img.shields.io/badge/PLAY_MATRIX_ACCESS-00ff66?style=for-the-badge&logo=vercel&logoColor=000)](https://matrix-puzzle-seven.vercel.app/)
+
 #### 💼 What I'm Currently Working On
 
 - Leading the development of **Ovydra**, a long term vision project under ZETNOV.
-
 - Focused on creating sustainable **systems for the next digital era**.
 
 #### 🧠 Currently Learning & Building
@@ -80,7 +84,6 @@ I’m a self taught developer with an insatiable curiosity for how systems work.
   <img src="https://img.shields.io/badge/OpenSSH-0D1117?style=for-the-badge&logo=openssh&logoColor=FFFFFF&labelColor=0D1117&color=1a1a1a"/>
   <img src="https://img.shields.io/badge/OpenVAS-0D1117?style=for-the-badge&labelColor=0D1117&color=1a1a1a"/>
 </p>
-
 
 <!-- BLOCKCHAIN -->
 <p align="center">
