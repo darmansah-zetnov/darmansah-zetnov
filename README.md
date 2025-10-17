@@ -24,7 +24,12 @@ I’m a self taught developer with an insatiable curiosity for how systems work.
 #### 🧩 Matrix Portfolio Access
 > Unlock puzzles & explore my Portofolio through an immersive game.
 
-[![Play Matrix Access](https://img.shields.io/badge/PLAY_MATRIX_ACCESS-00ff66?style=for-the-badge&logo=vercel&logoColor=000)](https://matrix-puzzle-seven.vercel.app/)
+<div style="text-align:center; margin-top: 20px;">
+  <a href="https://portofolio-darmansah.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_MATRIX_ACCESS-00ff66?style=for-the-badge&logo=vercel&logoColor=000" alt="PLAY MATRIX ACCESS">
+  </a>
+</div>
+
 
 #### 💼 What I'm Currently Working On
 
