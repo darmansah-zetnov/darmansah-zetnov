@@ -21,14 +21,19 @@ I’m a self taught developer with an insatiable curiosity for how systems work.
   <img src="https://raw.githubusercontent.com/darmansah-zetnov/darmansah-zetnov/f3e812dc68e646a6dc5448608469f56aad4f86c7/Fate.gif" width="90%" alt="Welcome Banner"/>
 </p>
 
-#### 🧩 Matrix Portfolio Access
+#### 🧩 Portfolio Access
 > Unlock puzzles & explore my Portofolio through an immersive game.
 
-<div style="text-align:center; margin-top: 20px;">
-  <a href="https://portofolio-darmansah.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_MATRIX_ACCESS-00ff66?style=for-the-badge&logo=vercel&logoColor=000" alt="PLAY MATRIX ACCESS">
+<p align="center">
+  <a href="https://portofolio-darmansah.vercel.app">
+    <img src="https://img.shields.io/badge/PLAY_PORTOFOLIO_ACCESS-00ff66?style=for-the-badge&logo=vercel&logoColor=000" alt="PLAY MATRIX ACCESS">
   </a>
-</div>
+  <br><br>
+  <b>🔐 ACCESS THE PORTFOLIO SYSTEM</b><br>
+  <i>by Darmansah</i>
+</p>
+
+
 
 
 #### 💼 What I'm Currently Working On
