@@ -1,20 +1,5 @@
 ## 👋 Hi there! I'm Darmansah
 
-<!--
-**darmansah-zetnov/darmansah-zetnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I’m a self taught developer with an insatiable curiosity for how systems work. My passion lies in exploring every layer from **fullstack development** and **ethical hacking** to the **evolving world of blockchain** and **artificial intelligence**.
 
 <p align="center">
@@ -46,7 +31,6 @@ Each stage represents a deeper level of verification, combining logic puzzles, t
 This project is both a **personal branding experiment** and a **prototype MVP** to test how interactivity and layered verification can redefine digital portfolios where access itself becomes part of the story.
 
 > 💬 “If you can navigate it, you understand how I think.”
-
 
 ### 💼 What I'm Currently Working On
 
