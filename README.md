@@ -22,16 +22,39 @@ I’m a self taught developer with an insatiable curiosity for how systems work.
 </p>
 
 #### 🧩 Portfolio Access
-> Unlock puzzles & explore my Portofolio through an immersive game.
-
 <p align="center">
   <a href="https://portofolio-darmansah.vercel.app">
-    <img src="https://img.shields.io/badge/PLAY_PORTOFOLIO_ACCESS-00ff66?style=for-the-badge&logo=vercel&logoColor=000" alt="PLAY MATRIX ACCESS">
+    <img src="https://img.shields.io/badge/PLAY_MATRIX_ACCESS-00ff66?style=for-the-badge&logo=vercel&logoColor=000" alt="PLAY MATRIX ACCESS">
   </a>
-  <br><br>
-  <b>🔐 ACCESS THE PORTFOLIO SYSTEM</b><br>
-  <i>by Darmansah</i>
 </p>
+
+---
+
+## 🧠 About This Project Portfolio Access Simulation
+
+This is not a traditional portfolio website.  
+It’s an **interactive access simulation** a gamified experience designed to reflect how I approach **Web3 systems, cybersecurity logic and human centered design**.
+
+Inside the system, you’ll enter a secured interface called **Parallel Clearance Protocol**, where every visitor becomes an *operator* navigating multiple levels of access.  
+Each stage represents a deeper level of verification, combining logic puzzles, timers and cryptographic tokens.
+
+### 🔐 How It Works
+- **Access Mode:** You begin with a clearance window and 3 shared nodes (lives).  
+- **Challenge System:** Each level requires solving prompts or security puzzles under time pressure.  
+- **Proof of Access:** Successful completion generates a `Security Token` with a unique hash and nonce a symbolic proof verified by the system.  
+- **Final Level:** Grants full portfolio access and my verified contact credentials.
+
+### 🎯 Why I Built It
+This project is both a **personal branding experiment** and a **prototype MVP** to test how interactivity and layered verification can redefine digital portfolios where access itself becomes part of the story.
+
+> 💬 “If you can navigate it, you understand how I think.”
+
+---
+
+<p align="center">
+  🔗 <a href="https://portofolio-darmansah.vercel.app" target="_blank"><b>Access the System</b></a>
+</p>
+
 
 
 
