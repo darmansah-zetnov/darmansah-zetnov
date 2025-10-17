@@ -9,7 +9,7 @@ I’m a self taught developer with an insatiable curiosity for how systems work.
 ### 🧩 Portfolio Access
 <p align="center">
   <a href="https://portofolio-darmansah.vercel.app">
-    <img src="https://img.shields.io/badge/PLAY_PORTOFOLIO_ACCESS-00e5ff?style=for-the-badge&logo=vercel&logoColor=000" alt="PLAY MATRIX ACCESS">
+    <img src="https://img.shields.io/badge/PLAY_MATRIX_ACCESS-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="PLAY MATRIX ACCESS">
   </a>
 </p>
 
