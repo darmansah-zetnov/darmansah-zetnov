@@ -21,16 +21,14 @@ I’m a self taught developer with an insatiable curiosity for how systems work.
   <img src="https://raw.githubusercontent.com/darmansah-zetnov/darmansah-zetnov/f3e812dc68e646a6dc5448608469f56aad4f86c7/Fate.gif" width="90%" alt="Welcome Banner"/>
 </p>
 
-#### 🧩 Portfolio Access
+### 🧩 Portfolio Access
 <p align="center">
   <a href="https://portofolio-darmansah.vercel.app">
     <img src="https://img.shields.io/badge/PLAY_MATRIX_ACCESS-00ff66?style=for-the-badge&logo=vercel&logoColor=000" alt="PLAY MATRIX ACCESS">
   </a>
 </p>
 
----
-
-## 🧠 About This Project Portfolio Access Simulation
+### 🧠 About This Project Portfolio Access Simulation
 
 This is not a traditional portfolio website.  
 It’s an **interactive access simulation** a gamified experience designed to reflect how I approach **Web3 systems, cybersecurity logic and human centered design**.
@@ -49,22 +47,13 @@ This project is both a **personal branding experiment** and a **prototype MVP** 
 
 > 💬 “If you can navigate it, you understand how I think.”
 
----
 
-<p align="center">
-  🔗 <a href="https://portofolio-darmansah.vercel.app" target="_blank"><b>Access the System</b></a>
-</p>
-
-
-
-
-
-#### 💼 What I'm Currently Working On
+### 💼 What I'm Currently Working On
 
 - Leading the development of **Ovydra**, a long term vision project under ZETNOV.
 - Focused on creating sustainable **systems for the next digital era**.
 
-#### 🧠 Currently Learning & Building
+### 🧠 Currently Learning & Building
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=0D1117&color=1a1a1a"/>
